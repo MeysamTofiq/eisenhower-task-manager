@@ -1,0 +1,31 @@
+# دیتابیس و داده
+*.db
+*.sqlite
+personnel-*.xlsx
+*.xlsx
+*.xls
+
+# بکاپ‌ها و فشرده‌ها
+*.rar
+*.zip
+*.tar
+*backup*
+ODL/
+
+# لاگ‌ها
+*.txt
+!README*.txt
+stderr.txt
+stdout.txt
+eror.txt
+History.txt
+
+# بیلد
+__pycache__/
+build/
+dist/
+*.spec
+*.bat
+
+# سیستم
+Thumbs.db
